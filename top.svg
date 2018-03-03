@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="470px" height="129px" viewBox="0 0 470 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="60.3635342%" y1="-17.3137358%" x2="74.8471884%" y2="91.1092161%" id="linearGradient-1">
+            <stop stop-color="#002F5D" stop-opacity="0.608865489" offset="0%"></stop>
+            <stop stop-color="#3696FF" stop-opacity="0.616310009" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="43.0361714%" y1="9.02459198%" x2="39.6765161%" y2="114.914789%" id="linearGradient-2">
+            <stop stop-color="#2D0035" stop-opacity="0.690415534" offset="0%"></stop>
+            <stop stop-color="#E6A2FE" stop-opacity="0.739639946" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy" transform="translate(-44.000000, -63.000000)">
+            <path d="M41.9845491,192.867187 C117.270074,127.899539 206.046286,103.254054 343.926098,168.484021 C435.845973,211.970666 501.431945,175.560386 540.684013,59.2531803 L42.7137558,59.2531803 C-7.96273219,191.640951 -8.20580108,236.178953 41.9845491,192.867187 Z" id="Path-3" fill="url(#linearGradient-1)"></path>
+            <path d="M9.26338875,75.0984912 C26.2579063,104.846704 113.19164,226.119231 281.712798,114.502538 C394.060237,40.091409 479.307635,48.8353725 537.454992,140.734428 L537.454992,0.456271859 L9.26338875,0.456271859 C-2.0662896,30.3856096 -2.0662896,55.2663494 9.26338875,75.0984912 Z" id="Path-4" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>
